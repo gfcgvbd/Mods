@@ -50,7 +50,7 @@
 
     <div class="container">
         <h1>Descargar Archivo Virus :)</h1>
-        <a href="https://drive.google.com/file/d/1V7-Q7ymiSvbtsDp6LWG4c12PvFd5FW9Y" class="download-btn">Descargar</a>
+        <a href="https://drive.google.com/uc?export=download&id=1V7-Q7ymiSvbtsDp6LWG4c12PvFd5FW9Y" class="download-btn">Descargar</a>
     </div>
 
 </body>
